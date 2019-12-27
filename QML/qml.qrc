@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>main.qml</file>
+        <file>qtquickcontrols2.conf</file>
+        <file>DataControl/YYM_DataBase.qml</file>
+        <file>FunMoudel/CustomWebView.qml</file>
+        <file>FunMoudel/GuidePage.qml</file>
+        <file>FunMoudel/GuideWebview.qml</file>
+        <file>qmldir</file>
+    </qresource>
+</RCC>
